@@ -1,11 +1,12 @@
-### HNG - Dynamic Profile
+# HNG - Dynamic Profile
 A simple RESTful API endpoint that returns profile information along with a dynamic cat fact from an external API.
 
-##### Prerequisites
+## Prerequisites
 * Node.js
 
-##### Setup Instructions
+## Setup Instructions
  1. Clone or Download the project to a local machine
+   `git clone https://github.com/pd-idubor/hng_0.git`
  2. Navigate to project directory
     `cd /path/to/project`
  3. Initialize the node.js project
@@ -26,4 +27,3 @@ A simple RESTful API endpoint that returns profile information along with a dyna
                 "catFact": "Cats have five toes on their front paws, but only four on the back."
       }
     }`
-
